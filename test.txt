@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Tada!!!!! It's eu5 branch
+=======
+Tada!!!!! before stage change
+aded blaah blah blah....
+
+
+line1
+line2
+line 3
+>>>>>>> master
